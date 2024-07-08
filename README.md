@@ -1,1 +1,2 @@
 # game
+Simple ass game
